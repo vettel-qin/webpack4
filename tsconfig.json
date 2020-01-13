@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // 打包文件
+    "module": "es6",
+    "target": "es5", //打包为es5
+    "allowJs": true, // 允许引用js文件
+    "jsx": "react",
+  }
+}

@@ -1,0 +1,13 @@
+body {
+  background-color: burlywood;
+  font-size: 14px;
+}
+
+.pic {
+  width: 800px;
+  height: 300px;
+}
+
+div:nth-of-type(odd) {
+  background: green;
+}
